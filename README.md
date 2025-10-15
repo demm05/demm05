@@ -2,9 +2,7 @@
 
 [![demm05's LinkedIn Profile](images/linkedin.png)](https://www.linkedin.com/in/demm05/)
 [![demm05's X Profile](images/twitter.png)](https://x.com/)
-
 </br>
-
 ## Glad to see you here!
 
 <img align="right" alt="Trinh Minh Triet" src="images/coding.gif" width="320px" />
